@@ -15,7 +15,7 @@ from scipy import stats
 from scipy import optimize
 
 class NeworkDataDriver:
-    def __init__(self, data_file='bible_names.csv'):
+    def __init__(self, data_file='data/bible_names.csv'):
         self.graph = nx.Graph()
 
         with open(data_file, 'r') as infile:
