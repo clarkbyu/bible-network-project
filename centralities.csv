@@ -1,0 +1,12 @@
+Method, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Betweenness, israel, jerusalem, judah, david, benjamin, egypt, manasseh, ephraim, jesus, joseph
+Closeness, israel, judah, jerusalem, david, egypt, ephraim, manasseh, benjamin, joseph, moses
+Degree, israel, judah, david, jerusalem, egypt, benjamin, manasseh, ephraim, saul, philistines
+Eigenvector, israel, judah, david, jerusalem, egypt, benjamin, ephraim, manasseh, moses, jordan
+HITS Authorities, israel, judah, david, jerusalem, moses, saul, egypt, aaron, benjamin, solomon
+HITS Hubs, israel, judah, david, jerusalem, moses, saul, egypt, aaron, benjamin, solomon
+Katz (alpha=.01), israel, judah, david, jerusalem, egypt, benjamin, manasseh, ephraim, saul, moses
+Katz (alpha=.001), israel, judah, david, jerusalem, egypt, benjamin, manasseh, ephraim, saul, philistines
+PageRank, israel, judah, david, jerusalem, moses, saul, egypt, jesus, manasseh, benjamin
+
+
